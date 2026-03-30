@@ -3,12 +3,30 @@
   "displayName": "Abyssal Blue",
   "description": "A VS Code theme for all those who love Monokai syntax coloring, and love deep blue colors.",
   "version": "0.0.1",
+  "publisher": "shenoy-anurag",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shenoy-anurag/abyssal-blue-vscode-theme"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Abyssal Blue",
+    "Monokai",
+    "Blue",
+    "Deep Blue"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "engines": {
     "vscode": "^1.110.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "abyssal-blue-icon.png",
   "contributes": {
     "themes": [
       {
