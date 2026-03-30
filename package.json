@@ -1,0 +1,21 @@
+{
+  "name": "abyssal-blue",
+  "displayName": "Abyssal Blue",
+  "description": "A VS Code theme for all those who love Monokai syntax coloring, and love deep blue colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Abyssal Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Abyssal Blue-color-theme.json"
+      }
+    ]
+  }
+}
