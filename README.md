@@ -7,23 +7,22 @@
 A Visual Studio Code theme for the those who love the OG Monokai colors for syntax highlighting, and love the deep dark blues of the ocean.
 
 There are two themes in this package:
-1. Abyssal Blue Midnight.
-2. Abyssal Blue.
+1. Abyssal Blue.
+2. Abyssal Blue Abyss.
 
-Midnight has a slightly brighter color palette.
-
-## Abyssal Blue Midnight Preview
-
-![Image preview for the Abyssal Blue Midnight theme](assets/abyssal-midnight-ts-v0.0.2.png)
-
-The main/default theme is `Abyssal Blue Midnight`.
-
-Midnight refers to the [Bathypelagic Zone](https://www.whoi.edu/ocean-learning-hub/ocean-topics/how-the-ocean-works/ocean-zones/), also referred to colloquially as the Midnight Zone.
+Abyss has a slightly darker color palette.
 
 ## Abyssal Blue Preview
-I have created a darker version of the theme, which has the name `Abyssal Blue`.
+![Image preview for the Abyssal Blue theme](assets/abyssal-ts-v0.0.3.png)
 
-![Image preview for the Abyssal Blue theme](assets/abyssal-ts-v0.0.2.png)
+The main/default theme is `Abyssal Blue`.
+
+Inspired by the colors of the Midnight & Abyssal Zone of the Ocean. Learn about the [Abyssopelagic Zone](https://www.whoi.edu/ocean-learning-hub/ocean-topics/how-the-ocean-works/ocean-zones/), also referred to colloquially as the Abyss.
+
+## Abyssal Blue Abyss Preview
+I have created a darker version of the theme, which has the name `Abyssal Blue Abyss`.
+
+![Image preview for the Abyssal Blue Abyss theme](assets/abyssal-abyss-ts-v0.0.3.png)
 
 # Installation
 
@@ -35,7 +34,10 @@ I have created a darker version of the theme, which has the name `Abyssal Blue`.
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **Abyssal Blue**
 
-# Color Palette - Abyssal Blue Midnight
+You can also use the hotkey **Cmd + Shift + P** (on Mac) or **Ctrl + Shift + P** (on Windows) to open the Command Palette, type "theme", and select **Color Theme**, and then pick the **Abyssal Blue** theme.
+
+# Color Palette 
+## Abyssal Blue
 | Color Name | Color | Primary Application Areas | Hex |
 | ------ | ------ | ------ | ------ |
 | Dark Denim | ![Color Swatch for the Dark Denim color](assets/palette/default-midnight/highlight.png) | Status Bar, Highlight for Activity Bar | `#005588` |
@@ -80,4 +82,4 @@ If you use [the VS Code Babel extension](https://marketplace.visualstudio.com/it
 
 If you wish to make your own VS Code extension or theme, check out the [VS Code Extension Documentation](https://code.visualstudio.com/api/get-started/your-first-extension).
 
-This theme is inspired by my favorite theme of all time, [Monokai](https://github.com/microsoft/vscode/blob/f91019e7676ab34ef03e1ccb550a7a6c949fa4cd/extensions/theme-monokai/themes/monokai-color-theme.json).
+This theme is inspired by my favorite theme of all time, [Monokai](https://github.com/microsoft/vscode/blob/f91019e7676ab34ef03e1ccb550a7a6c949fa4cd/extensions/theme-monokai/themes/monokai-color-theme.json), not be confused with the Pro version of the same.
